@@ -1,0 +1,44 @@
+ .header{
+ 	font-size: 20px;
+ 	line-height: 1.5;
+	margin : 60px auto;
+ }
+ .header span{
+ 	display: block;
+ }
+ .section{
+ 	padding: 30px 0 ;
+ }
+ .container{
+
+ }
+ .form-header,.section-header {
+ 	font-size: 20px;
+ 	font-weight: bold;
+ 	margin-bottom: 20px;
+ }
+ .form input{
+ 	margin-bottom: 12px;
+ }
+ .form{
+ 	border:5px solid #2727d9;
+ 	padding: 30px 20px;
+ }
+ .btn-form{
+ 	margin-top: 10px;
+ 	background-color: #2727d9;
+ }
+ .feature{
+ 	margin : 60px auto;
+ }
+ .feature p{
+ 	margin-top:10px;
+ }
+ video{
+ 	margin-bottom:30px;
+ }
+ .photo-header{
+ 	font-size: 20px;
+ 	font-weight: bold;
+ 	margin-bottom: 50px;
+ }
